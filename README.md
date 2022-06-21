@@ -1,14 +1,15 @@
-## 김지민
 
 
+<div align= center>
+김지민
 
-    I want to become a person who can solve social problems with IT technology.
+  <div>
+
+   
 
 
-<div align= center script = font-size : 20>
-   <text
-         >Hi, I’m Kim jimin</text>
- I'm hoping to become an FE developer.
+<div align= center>
+  I want to become a person who can solve social problems with IT technology.
   <div>
 
 <span style="font-size: 32px;">stacks</span>
