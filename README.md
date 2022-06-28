@@ -21,4 +21,4 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <div>
 
-     It's my blog 👉 https://velog.io/@kkmn972
+     It's my blog 👉 <a href=https://velog.io/@kkmn972>https://velog.io/@kkmn972</a>
