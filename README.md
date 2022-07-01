@@ -1,17 +1,12 @@
 
 
-<div align= center>
-
-  <div>
-
    
-
-
 <div align= center>
   <h2>I want to become a person who can solve social problems with IT technology.</h2>
-  <div>
+ <div>
 
-<span style="font-size: 100px;">stacks</span>
+
+   
 <div align= center>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
