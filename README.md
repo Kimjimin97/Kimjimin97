@@ -1,7 +1,6 @@
 
 
 <div align= center>
-김지민
 
   <div>
 
@@ -9,7 +8,7 @@
 
 
 <div align= center>
-  I want to become a person who can solve social problems with IT technology.
+  <h2>I want to become a person who can solve social problems with IT technology.</h2>
   <div>
 
 <span style="font-size: 32px;">stacks</span>
